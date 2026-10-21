@@ -1,6 +1,6 @@
 this is my first file.
 a brand new change.
 
-check for uploading to Github
+checking for uploading to Github
 
-now I am at github website
+now, I am on github website

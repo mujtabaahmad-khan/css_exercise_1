@@ -1,6 +1,6 @@
 this is my first file.
 a brand new change.
 
-checking for uploading to Github
+checking for uploading to Github (Push)
 
-now, I am on github website
+Doing the reverse i.e. downloading to my local drive (Pull)
